@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #2a2f38;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #791010;
+}
+
+p {
+  font-size: 2rem;
+  color: #b5cec6;
+  font-family: 'Lugrasimo', cursive;
+}
+
+img {
+  width: 50%;
+  margin-top: 10%;
+}
+
+footer {
+  margin-top: 10%;
+  color: #EEEEEE;
+  text-align: center;
+  
+
+}
